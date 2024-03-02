@@ -1,2 +1,2 @@
-# inteligencia-artificial
+# Inteligência Artificial UNIEvangélica
 Atividades realizadas na aula de inteligência artificial.
